@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @linChuChu007
 - 👀 I’m interested in Javascript and SQL
-- 🌱 I’m currently learning Nextjss
+- 🌱 I’m currently learning Nextjs
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
